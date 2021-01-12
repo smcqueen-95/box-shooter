@@ -34,9 +34,12 @@ Software Developer and aspiring Game Developer
 - Unity
 
 # Game Play
+First download the repository locally on your device
 - For Mac go to this part of the porject and run the game 
 ``
 (box-shooter/Mac-Build.app/)
 ``
+
+Enjoy! :) 
 
 
