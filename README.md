@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Introduction to Game Development
 This project was done in my Coursera Specialization Course
 
