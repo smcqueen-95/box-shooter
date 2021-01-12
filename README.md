@@ -25,7 +25,7 @@ Software Developer and aspiring Game Developer
 - Two levels
 - Player has the option to play again or to go to the next level once the first level is beat
 - Player can shoot
-- Player gets bonus time when hitting the White boxes
+- Player gets bonus time when hitting the light blue boxes
 
 # Language
 - C Sharp
