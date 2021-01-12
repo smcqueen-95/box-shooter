@@ -3,6 +3,7 @@ This project was done in my Coursera Specialization Course
 
 # Box Shooter
 Unity built shooting game, with countdown time and beat level
+
 Player has a certain amount of time to shoot as much boxes to reach to the other level
 
 # About the Author
@@ -12,9 +13,9 @@ Name: Samira Mc Queen
 Free Spririted Caribbean Woman.
 Software Developer and aspiring Game Developer
 
-![Certification](./src/assets/images/Angular.png)
+![Certification](./public/img/game-dev.png)
 # Project 
-![Video](./src/assets/images/angular.gif)
+![Video](./public/img/box-shooter.gif)
 
 ## Experience with Project
 - This was my 3rd project while doing the course and i've been loving it
@@ -33,5 +34,9 @@ Software Developer and aspiring Game Developer
 - Unity
 
 # Game Play
+- For Mac go to this part of the porject and run the game 
+``
+(box-shooter/Mac-Build.app/)
+``
 
 
